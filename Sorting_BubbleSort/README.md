@@ -22,7 +22,7 @@ for (int i = 0; i < n; i++) {
 
 **Task**
 
-Given an `n`-element array, `A = a<sub>0</sub>, a<sub>1</sub>, ..., a<sub>n-1</sub>`, of distinct elements, sort array `A` in ascending order using the _Bubble Sort_ algorithm above. Once sorted, print the following three lines:
+Given an `n`-element array, `A = ` a<sub>0</sub>, a<sub>1</sub>, ..., a<sub>n-1</sub>, of distinct elements, sort array `A` in ascending order using the _Bubble Sort_ algorithm above. Once sorted, print the following three lines:
 
 1. `Array is sorted in numSwaps swaps.`, where `numSwaps` is the number of swaps that took place.
 2. `First Element: firstElement`, where `firstElement` is the first element in the sorted array.
