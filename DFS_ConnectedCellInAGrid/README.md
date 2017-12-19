@@ -1,4 +1,4 @@
-**Problem Definition**
+**Problem Definition**:
 [https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem)
 
 
