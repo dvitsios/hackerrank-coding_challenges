@@ -47,3 +47,6 @@ X X 0 0     1 1 0 0
 ```
 
 The first region has five cells and the second region has one cell. Because we want to print the number of cells in the largest region of the matrix, we print `5`.
+
+**Problem Definition**
+[https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem)
