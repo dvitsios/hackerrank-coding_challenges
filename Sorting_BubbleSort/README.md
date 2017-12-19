@@ -38,7 +38,7 @@ The second line contains `n` space-separated integers describing the respective 
 **Constraints**
 
 - ` 2 ≤ n ≤ 600 `
-- `1` ≤ a<sub>i</sub> ≤ `2 x 10<sup>6</sup>, `∀ i ∈ [0, n-1] `
+- `1` ≤ a<sub>i</sub> ≤ `2` x 10<sup>6</sup>, `∀ i ∈ [0, n-1] `
 
 **Output Format**
 
