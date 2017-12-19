@@ -13,7 +13,7 @@ Each line `i` of the `n` subsequent lines contains `m` space-separated integers 
 
 **Constraints**
 
- - $$ 0 < n,m < 10
+ - $$ 0 < n,m < 10 $$
 
 **Output Format**
 
