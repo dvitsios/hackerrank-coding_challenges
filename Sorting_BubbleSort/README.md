@@ -1,3 +1,6 @@
+**Problem Definition**:
+[https://www.hackerrank.com/challenges/ctci-bubble-sort/problem](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem)
+
 Consider the following version of Bubble Sort:
 
 ```
