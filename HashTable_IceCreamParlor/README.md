@@ -16,7 +16,7 @@ The first line contains an integer, `t`, denoting the number of trips to the ice
 - `1 ≤ t ≤ 50`
 - `2 ≤ money ≤ 10`<sup>9</sup>
 - `2 ≤ n ≤ 5 * 10`<sup>4</sup>
-- `1` ≤ cost<sub>i</sub> ≤ 10<sup>9</sup>, where `i ∈ [1, n] `
+- `1 ≤ cost`<sub>i</sub>` ≤ 10`<sup>9</sup>, where `i ∈ [1, n] `
 - It is guaranteed that there will always be a unique solution.
 
 **Output Format**
